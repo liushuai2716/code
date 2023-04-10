@@ -1,0 +1,7 @@
+*.class
+
+.idea/
+*.iml
+*.kotlin_module
+*.lst
+target/
